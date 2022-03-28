@@ -3,3 +3,9 @@ api = "0.7"
 [buildpack]
 id = "ballertv/heroku-buildpack-ffmpeg-latest"
 version = "1.0"
+
+[[stacks]]
+id = "heroku-18"
+
+[[stacks]]
+id = "heroku-20"
