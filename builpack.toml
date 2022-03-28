@@ -1,0 +1,5 @@
+api = "0.7"
+
+[buildpack]
+id = "ballertv/heroku-buildpack-ffmpeg-latest"
+version = "1.0"
