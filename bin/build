@@ -5,7 +5,7 @@ indent() {
 }
 
 echo "-----> Install ffmpeg"
-BUILD_DIR=$1
+BUILD_DIR="."
 VENDOR_DIR="vendor"
 DOWNLOAD_URL="https://baller-ffmpeg.s3.amazonaws.com/ffmpeg-git-amd64-static.tar.xz"
 
